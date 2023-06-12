@@ -11,7 +11,7 @@ To general approach taken to solve circuits in this program is using linear alge
 
 Example netlists are found in the Netlists directory.
 The input is of the form: 
-<designator> <node0> <node1> [<node2> [<node3>]] <value>
+designator node0 node1 [node2 [node3]] value
 
 
 Example Result Plot:
