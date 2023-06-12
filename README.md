@@ -10,3 +10,9 @@ The intended user is a ciruit designer who wants to test the behaviour of a ciru
 To general approach taken to solve circuits in this program is using linear algebra to formulate and solve Kirchoff's equations.
 
 Example netlists are found in the Netlists directory.
+The input is of the form: 
+<designator> <node0> <node1> [<node2> [<node3>]] <value>
+
+
+Example Result Plot:
+![image](https://github.com/him63/Circuit-Simulator/assets/93931659/4dfb94eb-cb52-4ac2-a1dc-205a7e1dfad4)
